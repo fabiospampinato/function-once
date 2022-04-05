@@ -2,7 +2,7 @@
   "name": "@fabiospampinato/once",
   "repository": "github:fabiospampinato/once",
   "description": "Wraps a function so that it's only ever executed once.",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "type": "module",
   "main": "dist/index.js",
   "exports": "./dist/index.js",
