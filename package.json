@@ -3,6 +3,7 @@
   "repository": "github:fabiospampinato/once",
   "description": "Wraps a function so that it's only ever executed once.",
   "version": "2.0.0",
+  "license": "MIT",
   "type": "module",
   "main": "dist/index.js",
   "exports": "./dist/index.js",
