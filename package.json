@@ -1,6 +1,6 @@
 {
-  "name": "fonce",
-  "repository": "github:fabiospampinato/fonce",
+  "name": "conce",
+  "repository": "github:fabiospampinato/conce",
   "description": "Wraps a function so that it's only ever executed once.",
   "version": "2.0.0",
   "type": "module",
