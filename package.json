@@ -1,8 +1,8 @@
 {
-  "name": "conce",
-  "repository": "github:fabiospampinato/conce",
+  "name": "function-once",
+  "repository": "github:fabiospampinato/function-once",
   "description": "Wraps a function so that it's only ever executed once.",
-  "version": "2.0.0",
+  "version": "3.0.0",
   "type": "module",
   "main": "dist/index.js",
   "exports": "./dist/index.js",

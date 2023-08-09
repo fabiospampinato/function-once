@@ -6,7 +6,7 @@ import once from '../dist/index.js';
 
 /* MAIN */
 
-describe ( 'Once', it => {
+describe ( 'Function Once', it => {
 
   it ( 'works', t => {
 

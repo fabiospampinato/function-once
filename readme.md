@@ -1,4 +1,4 @@
-# Conce
+# Function Once
 
 Wraps a function so that it's only ever executed once.
 
@@ -7,13 +7,13 @@ Note: `this` is always set to `undefined` and only functions that don't accept a
 ## Install
 
 ```sh
-npm install --save conce
+npm install --save function-once
 ```
 
 ## Usage
 
 ```ts
-import once from 'conce';
+import once from 'function-once';
 
 const rand = once (() => Math.random ());
 
