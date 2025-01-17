@@ -7,13 +7,15 @@ Note: `this` is always set to `undefined` and only functions that don't accept a
 ## Install
 
 ```sh
-npm install --save function-once
+npm install function-once
 ```
 
 ## Usage
 
 ```ts
 import once from 'function-once';
+
+// Let's make sure a function is at most executed only once
 
 const rand = once (() => Math.random ());
 
