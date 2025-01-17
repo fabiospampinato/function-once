@@ -2,6 +2,7 @@
   "name": "function-once",
   "repository": "github:fabiospampinato/function-once",
   "description": "Wraps a function so that it's only ever executed once.",
+  "license": "MIT",
   "version": "3.0.0",
   "type": "module",
   "main": "dist/index.js",
@@ -21,8 +22,8 @@
     "call"
   ],
   "devDependencies": {
-    "fava": "^0.2.1",
-    "tsex": "^3.0.1",
-    "typescript": "^5.1.6"
+    "fava": "^0.3.4",
+    "tsex": "^4.0.2",
+    "typescript": "^5.7.3"
   }
 }
